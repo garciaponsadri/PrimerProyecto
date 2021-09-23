@@ -1,13 +1,13 @@
-# ProyectoMongo
+# Adrià García Pons : Práctica Github
+_Fecha: 23/09/2021_
 
-Autor: Adrià García Pons
+### Información General 📋
+* Primera práctica Github & Git
+* Dentro de la carpeta "src" tenemos algunos de los documentos, ficheros empleados en la práctica.
+* Las explicaciones y ejercicios las encontraremos dentro del PDF 📖   
 
-Fecha: 23/09/2021
-
-Ejercicio: Primer Proyecto Github
-
-Estructura de archivos:
-
+### Estructura de archivos 🛠️:
+_
       -> doc:
            > Práctica_Github.pdf
       
