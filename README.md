@@ -7,7 +7,7 @@ _Fecha: 23/09/2021_
 * Las explicaciones y ejercicios las encontraremos dentro del PDF 📖   
 
 ### Estructura de archivos 🛠️:
-_
+
       -> doc:
            > Práctica_Github.pdf
       
